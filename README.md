@@ -35,7 +35,9 @@ Consumo	Kcal
 Choripán	(Largo * Ancho) / 3
 Terremoto	(Litros * 10) / 3
 
-Estructura:
+## Estructura del proyecto
+
+```
 Taller2/
 ├── src/
 │   └── Taller02/
@@ -46,4 +48,5 @@ Taller2/
 ├── Consumido.txt
 ├── Diagrama_UML_Taller2.pdf
 └── README.md
+```
 
